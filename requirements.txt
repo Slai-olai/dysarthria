@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+librosa
+numpy
+matplotlib
+Pillow
+huggingface_hub
