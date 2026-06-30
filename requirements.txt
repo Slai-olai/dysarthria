@@ -6,3 +6,4 @@ numpy
 matplotlib
 Pillow
 huggingface_hub
+audio-recorder-streamlit
